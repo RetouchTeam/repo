@@ -8,7 +8,6 @@ No other licenses may apply.
 **LAST UPDATED 19TH SEPTEMBER, 2019**
 
 
-
 -----
 Usage
 -----
@@ -17,10 +16,12 @@ Permission is hereby granted, free of charge, to any person, with the **EXPLICIT
 ------------
 Distribution
 ------------
-The Software MAY NOT be redistributed via any means, including but not limited to: electronic transmission, mechanical transmission, software mirroring, and alternative hosting systems (“Unauthorised Software Distributors”). Unauthorised redistribution of the Software violates the License Agreement. 
-Any and all instances of unauthorised redistribution of the Software will be handled to the fullest reasonable extent of the United States' Title 17 Copyright Act as described within Chapters 1 through 8 and Chapters 10 through 12.
+Redistribution of the Software is strictly prohibited and must only be obtained from the repository from which it originates (the "Repo"). Upgrades provided for the Software ("Software Updates") may only be obtained from the Repo.
+Unauthorised redistribution of the Software and (if applicable) Software Updates violates the License Agreement. 
 
-The Software must not be provided to **JAKE R. HAUSER of MCKINNEY, TEXAS, U.S.A** via any means, inlcuding but not limited to: private software mirroring, proxy, local storage device transfer. 
+Any and all instances of unauthorised redistribution of the Software and (if applicable) Software Updates will be handled to the fullest reasonable extent of the United States' Title 17 Copyright Act as described within Chapters 1 through 8 and Chapters 10 through 12.
+
+The Software must not be offered nor provided to **JAKE R. HAUSER of MCKINNEY, TEXAS, U.S.A** via any means, inlcuding but not limited to: private software mirroring, the usage of proxy servers, virtual private networks (VPNs), local mass storage device transfer (USB flash drives, Secure Digital memory cards, compact discs, magnetic tapes, floppy disks and diskettes, ZIP disks, CompactFlash cards,  external hard disk drives, external solid-state drives, internal hard disk drives, internal solid-state drives). 
 
 --------
 Warranty
@@ -41,5 +42,6 @@ The Software, and any and all visual design elements (the "Designs") contained w
 **License © 2019 Alex Brightman**
 THE “ANYONE EXCLUDING JAKE R. HAUSER of MCKINNEY, TEXAS, U.S.A” LICENSE AGREEMENT is the intellectual property of Alex Brightman, designed exclusively for use by Luke Alan for the purpose of outlining the permissible usage of the Software contained within this repository: http://www.github.io/LukeAlan/repo.
 
-iPhone OS, , iPod touch, iPhone, and iPad are trademarks of Apple Computer, Inc.
+
+iPhone OS, iPhone, iPad, and iPod touch are trademarks of Apple Computer, Inc.
 iOS is a trademark of Cisco Systems, Inc.
