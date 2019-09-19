@@ -36,14 +36,14 @@ THE COPYRIGHT HOLDER RESERVES THE RIGHT TO ALTER, AMEND, AND/OR UPDATE THIS LICE
 ---------
 Copyright
 ---------
-**Software © 2019 Luke Alan**
+**Software © 2019 Luke Alan, Alex Brightman, Evan [Surname Here]**
 
-The Software, and any and all visual design elements (the "Designs") contained within the Software, unless explicitly expressed otherwise in the Software's documentation, are the intellectual property of Luke Alan.
+The Software, and any and all visual design elements (the "Designs") contained within the Software, unless explicitly expressed otherwise in the Software's documentation, are the intellectual property of Luke Alan, Alex Brightman, and Evan [Surname Here].
+
 
 **License © 2019 Alex Brightman**
 
-THE “ANYONE EXCLUDING JAKE R. HAUSER of MCKINNEY, TEXAS, U.S.A” LICENSE AGREEMENT is the intellectual property of Alex Brightman, designed exclusively for use by Luke Alan for the purpose of outlining the permissible usage of the Software contained within this repository: http://www.github.io/LukeAlan/repo.
-
+THE “ANYONE EXCLUDING JAKE R. HAUSER of MCKINNEY, TEXAS, U.S.A” LICENSE AGREEMENT is the intellectual property of Alex Brightman, designed exclusively for use by Luke Alan for the purpose of outlining the permissible usage of the Software contained within this repository: http://retouchteam.github.io/repo/
 
 iPhone OS, iPhone, iPad, and iPod touch are trademarks of Apple Computer, Inc.
 iOS is a trademark of Cisco Systems, Inc.
