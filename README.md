@@ -15,5 +15,7 @@ The default icons in iOS are boring. Retouch is crafting an all-new, fresh look 
 Contributors and maintainers
 ---
 Code: Luke Alan
+
 Graphical: Luke Alan, Alex Brightman, Evan [AddYourDamnSurname]
+
 Legal: Alex Brightman
