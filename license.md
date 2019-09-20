@@ -48,3 +48,5 @@ THE “ANYONE EXCLUDING JAKE R. HAUSER of MCKINNEY, TEXAS, U.S.A” LICENSE AGRE
 
 iPhone OS, iPhone, iPad, and iPod touch are trademarks of Apple Computer, Inc.
 iOS is a trademark of Cisco Systems, Inc.
+
+//THE “ANYONE EXCLUDING JAKE R. HAUSER of MCKINNEY, TEXAS, U.S.A” LICENSE AGREEMENT IS BASED ON THE MIT LICENSE.
