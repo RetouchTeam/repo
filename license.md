@@ -1,4 +1,4 @@
-This software is licensed under the "Anyone Excluding Jake R. Hauser of McKinney, Texas, U.S.A" License, described below. 
+This software is licensed under the "Anyone Excluding Jake R. Hauser of McKinney, Texas, U.S.A" License (the "License"), described below. The License is offered only in British English. 
 No other licenses may apply.
 
 ------------------------------------------------------------------------------------------------------------------------------
