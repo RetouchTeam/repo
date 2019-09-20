@@ -1,5 +1,4 @@
-# repo
-GitHub Repository for Retouch Team
+# Retouch Team Repository
 
 ---
 What the project does
