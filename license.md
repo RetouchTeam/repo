@@ -4,7 +4,7 @@ No other licenses may apply.
 
 THE “ANYONE EXCLUDING JACOB HAUSER” LICENSE AGREEMENT
 
-LAST UPDATED 19TH SEPTEMBER, 2019
+LAST UPDATED 6TH OF OCTOBER, 2020
 Usage
 
 Permission is hereby granted, free of charge, to any person, with the EXPLICIT EXCEPTION of JACOB HAUSER, obtaining a copy of the software and associated documentation files (the “Software”), to install the Software onto the internal storage media of a portable digital assistant, smartphone, or tablet computer (“iPod touch”, “iPhone”, “iPad” (the “Device”)) running a modified version of iPhone OS ("iOS") via means of software unlocking (“jailbreaking”, “jail-breaking”, “jail breaking”).
